@@ -3,10 +3,12 @@
 
          ? 7types  : number, string, boolean,  null, undefined, symbol,  bigInt
 
-        * Reference   (Non primitive)
+         * Reference   (Non primitive)
 
-        ? Array, Object , Function 
+         ? Array, Object , Function 
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+         *  Stack-(primitive)                  Heap-(Non-primitive)
+        
 
 */
